@@ -17,7 +17,8 @@ Financial datasets are highly complex and multidimensional. QSVMs map classical 
 4. **Model Training:** Calculated a fidelity quantum kernel and passed it into an `sklearn` SVC classifier.
 
 ## 📊 Results
-*(Insert a screenshot of your side-by-side Confusion Matrix here!)*
+<img width="1157" height="490" alt="image" src="https://github.com/user-attachments/assets/c1f39897-3a54-466c-b769-1476c270f23d" />
+
 
 While current NISQ-era quantum simulators perform similarly to classical models on compressed datasets, this proof-of-concept shows the architecture required to scale financial risk models once fault-tolerant quantum hardware becomes available.
 
