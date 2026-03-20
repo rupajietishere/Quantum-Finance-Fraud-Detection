@@ -23,7 +23,7 @@ Financial datasets are highly complex and multidimensional. QSVMs map classical 
 While current NISQ-era quantum simulators perform similarly to classical models on compressed datasets, this proof-of-concept shows the architecture required to scale financial risk models once fault-tolerant quantum hardware becomes available.
 
 ## 🚀 How to Run Locally
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/Quantum-Finance-Fraud-Detection.git`
+1. Clone the repo: `git clone https://github.com/rupajietishere/Quantum-Finance-Fraud-Detection.git`
 2. Install requirements: `pip install qiskit qiskit-machine-learning scikit-learn pandas matplotlib seaborn jupyter`
 3. Download the dataset from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) and place it in the `/data` folder.
 4. Run the Jupyter Notebook!
