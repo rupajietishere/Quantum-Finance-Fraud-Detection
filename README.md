@@ -22,6 +22,7 @@ Financial datasets are highly complex and multidimensional. QSVMs map classical 
    
 <img width="1722" height="625" alt="image" src="https://github.com/user-attachments/assets/f0c593a8-35ae-4c34-9196-41a6ef561cae" />
 
+
 4. **Model Training:** Calculated a fidelity quantum kernel and passed it into an `sklearn` SVC classifier.
 
 ## 📊 Results
