@@ -1,4 +1,9 @@
 # 🔐 Quantum Machine Learning for Credit Card Fraud Detection
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Qiskit](https://img.shields.io/badge/Qiskit-purple)
+![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-blueviolet)
+![Domain](https://img.shields.io/badge/Domain-grey)
+![Quantitative Finance](https://img.shields.io/badge/Quantitative%20Finance-yellowgreen)
 
 A comparative study of **Classical SVM** vs **Quantum SVM (QSVM)** for detecting fraudulent credit card transactions, implemented using [Qiskit](https://qiskit.org/) and [scikit-learn](https://scikit-learn.org/).
 
