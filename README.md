@@ -132,11 +132,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 Built with curiosity about the intersection of quantum computing and machine learning.  
 Feel free to open an issue or submit a PR!
 
-## 🙋‍♂️ Author
-
-Built with curiosity about the intersection of quantum computing and machine learning.  
-Feel free to open an issue or submit a PR!
-
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupajiet%20Bhattacharjee-blue?logo=linkedin)](https://www.linkedin.com/in/rupajiet-bhattacharjee-60932769)  
 [![GitHub](https://img.shields.io/badge/GitHub-rupajietishere-black?logo=github)](https://github.com/rupajietishere)
