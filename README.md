@@ -39,7 +39,7 @@ The classical SVM significantly outperforms the QSVM in this experiment. The QSV
 
 The quantum feature map used is a **ZZFeatureMap** with `reps=2` and `linear` entanglement across 4 qubits (one per PCA component). It encodes classical data into quantum states via parameterized rotation and entangling gates, enabling the quantum kernel to capture non-linear relationships in the feature space.
 
-![Quantum Kernel Circuit](asset/Quantum Kernel.png)
+![Quantum Kernel Circuit](asset/Quantum_Kernel.png)
 
 ---
 
